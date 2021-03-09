@@ -1,2 +1,2 @@
 # interface-netflix
-Recriação da interface da Netflix
+Recriação da interface do Netflix
